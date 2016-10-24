@@ -3,7 +3,7 @@
 <html>
 <head>
  <link rel="stylesheet" type="text/css"  href="color.css"/>
- <title>TEST</title>
+ <title>MIS</title>
 <style>
 	.button {
 	  display: inline-block;
